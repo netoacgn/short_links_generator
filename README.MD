@@ -35,3 +35,6 @@
 
 
 # Demonstração do funcionamento
+
+
+![](app.gif)
